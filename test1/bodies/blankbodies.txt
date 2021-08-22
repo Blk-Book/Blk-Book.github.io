@@ -1,15 +1,19 @@
 <!doctype html>
 <html>
-<head>	<title>....</title>
-	<link rel="stylesheet" href="...Styles.css"></head>
+<head>	<title>. . . </title>
+	<link rel="stylesheet" href=". . . Styles.css"></head>
 
-<body>	<h1>...</h1>
+<!-- . . . original link . . . -->
+
+<body>	<h1>. . . </h1>
 
 	<h3>Story</h3>
 	<p>...</p>
 	<p>...</p>
 
-<span style="font-size:30px;">...</span>
+<span style="font-size:30px;">
+
+</span>
 	<h3><a href="../blkTest1.html">Next</a></h3>
 	</body>
 </html>
